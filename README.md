@@ -1,2 +1,1 @@
-# repo_template
-lorem ipsum
+# bleue
